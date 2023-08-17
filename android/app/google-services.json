@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839541775531",
+    "project_id": "notificationtest-10506",
+    "storage_bucket": "notificationtest-10506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839541775531:android:b79edc58e6137307742bee",
+        "android_client_info": {
+          "package_name": "com.vidhan.notification_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839541775531-u8cns767nmq090psneq47if4344g9rl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQixCgV-rjjKid7hjQk62xZ_t2M2pTweU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839541775531-u8cns767nmq090psneq47if4344g9rl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
